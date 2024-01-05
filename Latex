@@ -1,0 +1,10 @@
+\documentclass{article}
+\title{Learning LaTeX}
+\author{shivam kumar}
+\date{05/01/2023}
+
+\begin{document}
+\maketitle
+
+Hello World!
+\end{document}
